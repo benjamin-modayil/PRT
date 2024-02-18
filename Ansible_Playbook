@@ -1,5 +1,5 @@
 ---
-- name: Install Apache2
+- name: Install  Apache2
   hosts: slave1
   become: yes
 
